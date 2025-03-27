@@ -23213,6 +23213,18 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {
+            "author": "ayaoayaoayaoaya",
+            "title": "KLUTDeepSeekAPI",
+            "id": "klutdeepseekapi",
+            "reference": "https://github.com/ayaoayaoayaoaya/ComfyUI-KLUT-DeepSeek-API",
+            "files": [
+                "https://github.com/ayaoayaoayaoaya/ComfyUI-KLUT-DeepSeek-API"
+            ],
+            "install_type": "git-clone",
+            "description": "Official DeepSeek API integration for ComfyUI with support for chat and reasoning models. Features secure API key input, temperature control, and context management."
         }
+        
     ]
 }
